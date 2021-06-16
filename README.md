@@ -1,9 +1,8 @@
-## Welcome to GitHub Pages
+## About Me
 
-You can use the [editor on GitHub](https://github.com/haris021/haris_portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I have over 4 years of professional experience in research work on water resources and management, and field work focused on renewable energy sector particularly solar energy systems and its use in water resources.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+Current and prior affiliations include Global Change Impact Studies Centre, Water Resources Section, Leadership and Environment Develoment(LEAD) Pakistan, Oregon State University, USA
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
