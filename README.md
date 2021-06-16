@@ -2,7 +2,7 @@
 
 I have over 4 years of professional experience in research work on water resources and management, and field work focused on renewable energy sector particularly solar energy systems and its use in water resources.
 
-Current and prior affiliations include Global Change Impact Studies Centre, Water Resources Section, Leadership and Environment Develoment(LEAD) Pakistan, Oregon State University, USA
+Current and prior affiliations include Global Change Impact Studies Centre, Water Resources Section, Leadership for Environment Develoment(LEAD) Pakistan, Oregon State University, USA
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
